@@ -9,6 +9,8 @@ using structured queries in SQLite.
 
 ## 🗃️ Dataset
 - **Source:** [Online Retail Dataset - Kaggle]
+   Dataset is too large to upload directly to GitHub.
+   Download it from Kaggle:https://www.kaggle.com/datasets/carrie1/ecommerce-data
 - **Tool Used:** SQLite with DB Browser for SQLite
 - **Total Rows:** 541,909 transactions
 - **Columns:** InvoiceNo, StockCode, Description, Quantity, 
